@@ -7,7 +7,7 @@ Welcome to the **Hospitality Domain Data Analysis** project! This repository con
 ## 📊 Dashboard Preview
 
 <!-- Replace the link below with your dashboard image -->
-![Dashboard Preview](path/to/your/dashboard-image.png)
+![Dashboard Preview](Dashboard Preview Image.png)
 
 ---
 
